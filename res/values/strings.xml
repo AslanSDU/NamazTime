@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ғибадат</string>
+    <string name="fajr">Фаджр</string>
+    <string name="sunrise">Күн шығуы</string>
+    <string name="zuhr">Зухр</string>
+    <string name="asr">Аср</string>
+    <string name="maghrib">Мағриб</string>
+    <string name="isha">Иша</string>
+    <string name="ayat_reminder">Аят ескерту</string>
+    <string name="hadith_reminder">Хадис ескерту</string>
+    <string name="namaz_reminder">Намаз ескерту</string>
+
+</resources>
